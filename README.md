@@ -1,4 +1,4 @@
-### ✌️ Hi there
+### 👋 Hi there
 
 > I'm a computer science student at Universidade Estadual de Mato Grosso (UNEMAT) in Brazil.
 
