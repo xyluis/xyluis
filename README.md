@@ -1,16 +1,23 @@
-### Hi there 👋
+### ✌️ Hi there
+
+I'm a computer science student at Universidade Estadual de Mato Grosso (UNEMAT) in Brazil.
 
 <!--
 **xyluis/xyluis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+-->
+
+- 🔭 I’m currently working on [@zorinbot](https://github.com/zorinbot), [@gamesclub](https://github.com/gamescluboficial) and [@teamdvlpr](https://github.com/teamdvlpr)
+- 🌱 I’m currently learning **Frontend**
+- 💡 My stack is **Javascript**, **Typescript**, **React**, **Next.js** and **Node.js**
+<!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+- ⚡ Fun fact: *I love pizza, movies and travel!*
+- 🔗 My **socials**: [Instagram](https://instagram/com/xyluis) | [Twitter](https://twitter.com/xyluiis)
