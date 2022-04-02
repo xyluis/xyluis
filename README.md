@@ -1,6 +1,6 @@
 ### 👋 Hi there
 
-> I'm a computer science student at Universidade Estadual de Mato Grosso (UNEMAT) in Brazil.
+> I'm a computer science student at Universidade de Cuiabá (UNIC) in Cuiabá, MT, Brazil.
 
 - 🔭 I’m currently working on [@zorinbot](https://github.com/zorinbot), [@gamesclub](https://github.com/gamescluboficial) and [@teamdvlpr](https://github.com/teamdvlpr)
 - 🌱 I’m currently learning **Frontend**
