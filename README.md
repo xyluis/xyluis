@@ -1,9 +1,21 @@
-### 👋 Hi there
+<h2>👋 Hi there</h2>
 
-> I'm a computer science student at Universidade de Cuiabá (UNIC) in Cuiabá, MT, Brazil.
+<h3>About me</h3>
 
-- 🔭 I’m currently working on [@zorinbot](https://github.com/zorinbot) and [@teamdvlpr](https://github.com/teamdvlpr)
-- 🌱 I’m currently learning **Frontend**
-- 💡 My stack is **Javascript**, **Typescript**, **React**, **Next.js** and **Node.js**
-- ⚡ Fun fact: *I love pizza, games, movies and travel!*
-- 🔗 My socials: [Instagram](https://instagram/com/xyluis) | [Twitter](https://twitter.com/xyluiis)
+<ul>
+  <li>🔭 I am currently studying React and React Native</li>
+  <li>🎓 Currently studying Computer Science at UNIC (Universidade de Cuiabá, Cuiabá, MT, Brazil)</li>
+  <li>💼 Node.js Backend Developer</li>
+  <li>🌱 Typescript enthusiast</li>
+  <li>🏆 I love how programming can change people's lives</li>
+</ul>
+
+<h3>Stack</h3>
+
+<ul>
+  <li>💻 Node.JS | Python</li>
+  <li>🌐 React | HTML | CSS | JavaScript | TypeScript</li>
+  <li>🛢 MySQL | PostgreSQL | MongoDB | Redis</li>
+  <li>🔧 Visual Studio Code | PyCharm | Insominia | Git</li>
+  <li>☁️ Linode | Digital Ocean | Google Cloud | Azure</li>
+</ul>
