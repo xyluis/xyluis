@@ -29,11 +29,13 @@
   <li><a href="https://zorin.com.br">Zorin (Discord Chat Bot)</a></li>
 </ul>
 
-<h3>👥 Connect With Me<h3>
+<h3>👥 Connect With Me</h3>
   
 <ul>
-  <li><a href="https://linkedin.com/in/xyluiis">Linkedin</a></li>
-  <li><a href="https://twitter.com/xyluiis">Twitter</a></li>
-  <li><a href="https://discord.com/users/471333722810089492">Discord</a></li>
-  <li><a href="https://www.instagram.com/xyluiis">Instagram</a></li>
+  <li>
+    <a href="https://linkedin.com/in/xyluiis">Linkedin</a> |
+    <a href="https://twitter.com/xyluiis">Twitter</a> |
+    <a href="https://discord.com/users/471333722810089492">Discord</a> |
+    <a href="https://www.instagram.com/xyluiis">Instagram</a>
+  </li>
 </ul>
