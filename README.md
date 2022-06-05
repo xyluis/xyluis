@@ -14,7 +14,7 @@
 <h3>🛠 Stack</h3>
 
 <ul>
-  <li>💻 Node.JS | Python</li>
+  <li>💻 Node.js | Python</li>
   <li>🌐 React | HTML | CSS | JavaScript | TypeScript</li>
   <li>🛢 MySQL | PostgreSQL | MongoDB | Redis</li>
   <li>🔧 Visual Studio Code | PyCharm | Insominia | Git</li>
