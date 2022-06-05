@@ -1,4 +1,4 @@
-<h2>👋 Hi there</h2>
+<h2>👋 Hi there, My name is Luís</h2>
 
 <h3>👨🏻‍💻 About me</h3>
 
@@ -8,6 +8,7 @@
   <li>💼 Node.js Backend Developer</li>
   <li>🌱 Typescript enthusiast</li>
   <li>🏆 I love how programming can change people's lives</li>
+  <li>👨‍💻 I'm looking for my first job opportunity. <a href="mailto:luis@zorin.com.br">Hire Me!</a></li>
 </ul>
 
 <h3>🛠 Stack</h3>
@@ -18,4 +19,13 @@
   <li>🛢 MySQL | PostgreSQL | MongoDB | Redis</li>
   <li>🔧 Visual Studio Code | PyCharm | Insominia | Git</li>
   <li>☁️ Linode | Digital Ocean | Google Cloud | Azure</li>
+</ul>
+
+<h3>👥 Connect With Me<h3>
+  
+<ul>
+  <li><a href="https://linkedin.com/in/xyluiis">Linkedin</a></li>
+  <li><a href="https://twitter.com/xyluiis">Twitter</a></li>
+  <li><a href="https://discord.com/users/471333722810089492">Discord</a></li>
+  <li><a href="https://www.instagram.com/xyluiis">Instagram</a></li>
 </ul>
