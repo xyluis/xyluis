@@ -21,6 +21,14 @@
   <li>☁️ Linode | Digital Ocean | Google Cloud | Azure</li>
 </ul>
 
+<h3>📁 Projects</h3>
+  
+<ul>
+  <li><a href="https://github.com/xyluis/todo">ToDo List (Ignite)</a></li>
+  <li><a href="https://github.com/xyluis/feedget">Feedget (Ignite)</a></li>
+  <li><a href="https://zorin.com.br">Zorin (Discord Chat Bot)</a></li>
+</ul>
+
 <h3>👥 Connect With Me<h3>
   
 <ul>
