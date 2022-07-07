@@ -26,6 +26,7 @@
 <ul>
   <li><a href="https://github.com/xyluis/todo">ToDo List (Ignite)</a></li>
   <li><a href="https://github.com/xyluis/feedget">Feedget (Ignite)</a></li>
+  <li><a href="https://github.com/xyluis/ignite-lab-2">Event Platform (Ignite Lab 02)</a></li>
   <li><a href="https://zorin.com.br">Zorin (Discord Chat Bot)</a></li>
 </ul>
 
