@@ -9,6 +9,7 @@
   <li>🌱 Typescript enthusiast</li>
   <li>🏆 I love how programming can change people's lives</li>
   <li>👨‍💻 I'm looking for my first job opportunity. <a href="mailto:luis@zorin.com.br">Hire Me!</a></li>
+  <li>🖥️ Here are my <a href="https://github.com/xyluis/dotfiles">dotfiles</a></li>
 </ul>
 
 <h3>🛠 Stack</h3>
