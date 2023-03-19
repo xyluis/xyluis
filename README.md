@@ -18,7 +18,7 @@
   <li>💻 Node.js | Python</li>
   <li>🌐 React | HTML | CSS | JavaScript | TypeScript</li>
   <li>🛢 MySQL | PostgreSQL | MongoDB | Redis</li>
-  <li>🔧 Visual Studio Code | PyCharm | Insominia | Git</li>
+  <li>🔧 Visual Studio Code (<a href="https://vscode.dev/profile/github/bbbadb25504422f6a6e14db2969bb8f9">My Profile</a>) | PyCharm | Insominia | Git</li>
   <li>☁️ Linode | Digital Ocean | Google Cloud | Azure</li>
 </ul>
 
