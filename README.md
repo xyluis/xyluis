@@ -7,7 +7,7 @@
   <li>🎓 Currently studying Computer Science at UNIC (Universidade de Cuiabá, Cuiabá, MT, Brazil)</li>
   <li>💼 Node.js Backend Developer</li>
   <li>🌱 Typescript enthusiast</li>
-  <li>🏆 I love how programming can change people's lives</li>
+  <li>🏆 I love how programming can change people's lifes</li>
   <li>👨‍💻 I'm looking for my first job opportunity. <a href="mailto:me@xyluis.tech">Hire Me!</a></li>
   <li>🖥️ Here are my <a href="https://github.com/xyluis/dotfiles">dotfiles</a></li>
 </ul>
@@ -15,11 +15,10 @@
 <h3>🛠 Stack</h3>
 
 <ul>
-  <li>💻 Node.js | Python</li>
-  <li>🌐 React | HTML | CSS | JavaScript | TypeScript</li>
+  <li>💻 React | HTML | CSS | JavaScript | TypeScript | Node.js | Python</li>
   <li>🛢 MySQL | PostgreSQL | MongoDB | Redis</li>
   <li>🔧 Visual Studio Code (<a href="https://vscode.dev/profile/github/bbbadb25504422f6a6e14db2969bb8f9">My Profile</a>) | PyCharm | Insominia | Git</li>
-  <li>☁️ Linode | Digital Ocean | Google Cloud | Azure</li>
+  <li>☁️ Linode | Digital Ocean | Google Cloud | Azure | Heroku</li>
 </ul>
 
 <h3>📁 Projects</h3>
